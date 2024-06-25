@@ -14,6 +14,15 @@ My name is Khang Nguyen. I'm pursuing a Computer Science degree. I am interested
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=fisrt_game&theme=merko" />
 </a>
+<a href="https://github.com/maxkhang/maxkhang.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=maxkhang.github.io&theme=merko" />
+</a>
+<a href="https://github.com/maxkhang/Chika.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=Chika.github.io&theme=merko" />
+</a>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
