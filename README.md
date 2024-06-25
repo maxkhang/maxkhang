@@ -2,7 +2,7 @@
 My name is Khang Nguyen. I'm pursuing a Computer Science degree. I am interested in Artificial Intelligence, Computer Vision and Full-stack web development. I also enjoy sharing my experience and tips I have had during my study. <br>
 ## 📫 How to reach me: 
 
-
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/maxkhang/)
 
 ![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxkhang&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
@@ -10,9 +10,9 @@ My name is Khang Nguyen. I'm pursuing a Computer Science degree. I am interested
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=Newton-Fractal-C--Implementation&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/maxkhang/fisrt_game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=first_game&theme=merko" />
 </a>
 
 ### ✍️Random Dev Quote
