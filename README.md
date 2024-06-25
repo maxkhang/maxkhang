@@ -1,4 +1,4 @@
-## Hi everyone, I'm Khang. I made this GitHub page to share with you guys my experience and tips I have so far as I'm doing a Computer Science degree. Please feel free to look at my repos for reference.
+Hi everyone, I'm Khang. I made this GitHub page to share with you guys my experience, tips and some funny projects as I'm pursuing a Computer Science degree. Please feel free to look at my repos for reference.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017100791661) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khang.march/) 
 
