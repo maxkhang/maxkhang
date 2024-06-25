@@ -12,7 +12,7 @@ My name is Khang Nguyen. I'm pursuing a Computer Science degree. I am interested
 </a>    
 <a href="https://github.com/maxkhang/fisrt_game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=first_game&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxkhang&repo=fisrt_game&theme=merko" />
 </a>
 
 ### ✍️Random Dev Quote
